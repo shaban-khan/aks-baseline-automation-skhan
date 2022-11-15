@@ -1,6 +1,6 @@
 azure_container_registries = {
   acr1 = {
-    name               = "acrre1008"
+    name               = "acr-re1-088"
     resource_group_key = "aks_re1"
     sku                = "Premium"
     diagnostic_profiles = {

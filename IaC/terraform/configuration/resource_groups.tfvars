@@ -1,6 +1,6 @@
 resource_groups = {
   aks_re1 = {
-    name   = "rg-bu0001a0008"
+    name   = "rg-bu0001a0088"
     region = "region1"
   }
   vnet_hub_re1 = {
